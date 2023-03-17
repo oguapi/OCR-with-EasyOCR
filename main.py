@@ -3,9 +3,9 @@ import easyocr
 import matplotlib.pyplot as plt
 
 #Read image
-image_path= 'data\img1.jpeg' #Put the path of the image
+#image_path= 'data\img1.jpeg' #Put the path of the image
 #image_path= 'data\img2.jpg'
-#image_path= 'data\img3.jpg'
+image_path= 'data\img3.jpg'
 
 img= cv2.imread(image_path)
 
