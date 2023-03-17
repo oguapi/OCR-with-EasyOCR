@@ -16,15 +16,19 @@ This process is implemented python, and the following libraries:
 
 ## Examples
 Image img:
+
 ![Output][lil-ex-url]
 
 Image img1:
+
 ![Output1][lil-ex1-url]
 
 Image img2:
+
 ![Output1][lil-ex2-url]
 
 Image img3:
+
 ![image](https://user-images.githubusercontent.com/46389486/214333517-deac6221-64c1-4368-ac6f-fe99add6d101.png)
 
 [lil-ex-url]: https://raw.githubusercontent.com/oguapi/OCR-with-EasyOCR/master/assets/ex.jpg
